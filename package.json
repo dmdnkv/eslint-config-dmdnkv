@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dmdnkv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "eslint code style rules based on airbnb's rules with some changes",
   "main": "index.js",
   "scripts": {
