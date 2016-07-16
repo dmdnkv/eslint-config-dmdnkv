@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-dmdnkv",
+  "version": "1.0.0",
+  "description": "eslint code style rules based on airbnb's rules with some changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "code",
+    "style",
+    "airbnb"
+  ],
+  "author": "Konstantsin Demedenkov",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.1.0",
+    "eslint-config-airbnb-base": "^4.0.2",
+    "eslint-plugin-import": "^1.10.3"
+  },
+  "peerDependencies": {
+    "eslint": "^3.1.0",
+    "eslint-config-airbnb-base": "^4.0.2",
+    "eslint-plugin-import": "^1.10.3"
+  }
+}
