@@ -15,13 +15,13 @@
   "author": "Konstantsin Demedenkov",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^3.1.0",
+    "eslint": "^4.18.2",
     "eslint-config-airbnb-base": "^4.0.2",
-    "eslint-plugin-import": "^1.10.3"
+    "eslint-plugin-import": "^1.16.0"
   },
   "peerDependencies": {
-    "eslint": "^3.1.0",
+    "eslint": "^4.18.2",
     "eslint-config-airbnb-base": "^4.0.2",
-    "eslint-plugin-import": "^1.10.3"
+    "eslint-plugin-import": "^1.16.0"
   }
 }
